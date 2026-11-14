@@ -1,6 +1,15 @@
 {
+  "cleanUrls": true,
   "redirects": [
-    { "source": "/mix", "destination": "https://tally.so/r/Z9EkVy", "permanent": false },
-    { "source": "/book", "destination": "https://cal.com/chavert-valentine-hhcijm/30min", "permanent": false }
+    {
+      "source": "/mix",
+      "destination": "https://tally.so/r/Z9EkVy",
+      "permanent": false
+    },
+    {
+      "source": "/book",
+      "destination": "https://cal.com/chavert-valentine-hhcijm/30min",
+      "permanent": false
+    }
   ]
 }
